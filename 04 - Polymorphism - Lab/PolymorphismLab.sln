@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operations", "Operations\Operations.csproj", "{934C862D-77F3-412E-8090-0A31579225AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{71D56ECF-AA74-4034-A6EA-B7422797F73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{36B24E34-37BF-49F0-AC95-BB51DECF76D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{934C862D-77F3-412E-8090-0A31579225AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934C862D-77F3-412E-8090-0A31579225AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934C862D-77F3-412E-8090-0A31579225AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934C862D-77F3-412E-8090-0A31579225AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71D56ECF-AA74-4034-A6EA-B7422797F73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D56ECF-AA74-4034-A6EA-B7422797F73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D56ECF-AA74-4034-A6EA-B7422797F73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D56ECF-AA74-4034-A6EA-B7422797F73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B24E34-37BF-49F0-AC95-BB51DECF76D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B24E34-37BF-49F0-AC95-BB51DECF76D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B24E34-37BF-49F0-AC95-BB51DECF76D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B24E34-37BF-49F0-AC95-BB51DECF76D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721E2373-3664-45BE-B1CA-FE29C64E92F9}
+	EndGlobalSection
+EndGlobal
