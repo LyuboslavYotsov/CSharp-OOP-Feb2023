@@ -8,6 +8,6 @@ namespace ExplicitInterfaces
 
         int Age { get; }
 
-        string GetName() => Name;
+        string GetName();
     }
 }

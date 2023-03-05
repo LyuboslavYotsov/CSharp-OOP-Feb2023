@@ -16,5 +16,9 @@ namespace ExplicitInterfaces
         public int Age { get; private set; }
 
         public string Country { get; private set; }
+
+        string IPerson.GetName() => Name;
+
+        string IResident.GetName() => $"Mr/Ms/Mrs {Name}";
     }
 }

@@ -7,6 +7,6 @@ namespace ExplicitInterfaces
 
         string Country { get; }
 
-        string GetName() => $"Mr/Ms/Mrs {Name}";
+        string GetName();
     }
 }
