@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\bin\Debug\net6.0\PrototypeExample.exe
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\bin\Debug\net6.0\PrototypeExample.deps.json
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\bin\Debug\net6.0\PrototypeExample.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\bin\Debug\net6.0\PrototypeExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\bin\Debug\net6.0\PrototypeExample.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\refint\PrototypeExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\PrototypeExample.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\PrototypeExample\obj\Debug\net6.0\ref\PrototypeExample.dll

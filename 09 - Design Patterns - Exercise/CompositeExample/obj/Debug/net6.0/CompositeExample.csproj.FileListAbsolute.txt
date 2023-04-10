@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\bin\Debug\net6.0\CompositeExample.exe
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\bin\Debug\net6.0\CompositeExample.deps.json
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\bin\Debug\net6.0\CompositeExample.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\bin\Debug\net6.0\CompositeExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\bin\Debug\net6.0\CompositeExample.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\refint\CompositeExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\CompositeExample.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\CompositeExample\obj\Debug\net6.0\ref\CompositeExample.dll

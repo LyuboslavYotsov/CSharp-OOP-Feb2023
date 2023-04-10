@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\bin\Debug\net6.0\FacadeDemo.exe
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\bin\Debug\net6.0\FacadeDemo.deps.json
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\bin\Debug\net6.0\FacadeDemo.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\bin\Debug\net6.0\FacadeDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\bin\Debug\net6.0\FacadeDemo.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\refint\FacadeDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\FacadeDemo.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\FacadeDemo\obj\Debug\net6.0\ref\FacadeDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\bin\Debug\net6.0\TemplatePatternExample.exe
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\bin\Debug\net6.0\TemplatePatternExample.deps.json
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\bin\Debug\net6.0\TemplatePatternExample.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\bin\Debug\net6.0\TemplatePatternExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\bin\Debug\net6.0\TemplatePatternExample.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\refint\TemplatePatternExample.dll
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\TemplatePatternExample.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DesignPatternsExercise\TemplatePatternExample\obj\Debug\net6.0\ref\TemplatePatternExample.dll

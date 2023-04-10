@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.exe
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.deps.json
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\bin\Debug\net6.0\CommandPatternDemo.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\refint\CommandPatternDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\CommandPatternDemo.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\CommandPatternDemo\obj\Debug\net6.0\ref\CommandPatternDemo.dll

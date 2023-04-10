@@ -1,0 +1,15 @@
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\bin\Debug\net6.0\SingletonDemo.exe
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\bin\Debug\net6.0\SingletonDemo.deps.json
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\bin\Debug\net6.0\SingletonDemo.runtimeconfig.json
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\bin\Debug\net6.0\SingletonDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\bin\Debug\net6.0\SingletonDemo.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.csproj.AssemblyReference.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.AssemblyInfoInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.AssemblyInfo.cs
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\refint\SingletonDemo.dll
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.pdb
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\SingletonDemo.genruntimeconfig.cache
+C:\Users\Luboslav\source\repos\DesignPatternsLab\SingletonDemo\obj\Debug\net6.0\ref\SingletonDemo.dll
